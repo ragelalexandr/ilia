@@ -4,6 +4,7 @@ html{
 
 body{
     background-color: white;
+
 }
 
 .col-sm-4{
@@ -36,4 +37,12 @@ a{
     cursor: pointer;
     margin-top: 20px;
     text-decoration: none;
+  }
+
+  form{
+    align-items: center;
+  }
+
+  .bar {
+    align-items: center;
   }
