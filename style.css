@@ -1,10 +1,20 @@
-html{
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400");
+html, body{
     background-color: white;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
-body{
-    background-color: white;
+.bg-faded{
+    background-color: #129aa1;
+}
 
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: whitesmoke;
 }
 
 .col-sm-4{
