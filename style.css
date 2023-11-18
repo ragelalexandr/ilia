@@ -15,6 +15,7 @@ header{
 }
 
 .reg{
+    background-color: #2c3338;
     display: flex;
     justify-content: center;
     height: 100px;
@@ -46,6 +47,7 @@ h1{
 
 p{
     text-align: center;
+    margin: 0%;
 }
 
 .login{
@@ -73,6 +75,7 @@ menu{
     background-color: #0c787d;
     display: flex;
     justify-content: center;
+    margin: 0%;
 }
 
 .nav-link{
