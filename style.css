@@ -10,6 +10,8 @@ html, body{
     height: 950px;
  }
 
+/* header */
+
 header{
 
 }
@@ -86,3 +88,7 @@ menu{
 .nav-link:hover{
     color:white;
 }
+
+
+/* cards */
+
